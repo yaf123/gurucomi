@@ -14,7 +14,7 @@ class TwitterReplyBot extends Command
     /**
      * The name and signature of the console command.
      * 
-     * 　呼び出すときの名前  php artisan batch:xxxx
+     * 　呼び出すときの名前  php artisan TwitterReplyBot:Execute
      * 
      * @var string
      */
